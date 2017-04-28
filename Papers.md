@@ -12,7 +12,8 @@ Lamdba Calculus core for implementing lineary types, their semantics, and applic
 
 
 
-##### 3. On the Duality of Streams
+##### 3. Functional Programming with Overloading and High-order Polymorphism
 
+Gives the reason for using type classes as to achieve restricted polymorphism, and higher-order type in type constructuctors. 
 
-
+Gives some applications of the combination of type classes and higher-order types. Note that monad transformers could be modeled in a category theory way. 
