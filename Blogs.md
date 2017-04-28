@@ -16,3 +16,14 @@ Elementary intro notes from Cornell course.
 
 Cornell added to transfer list LOL. 
 
+
+
+##### 4. [Vim Text Objects](http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/)
+
+Comprehensive guide on the use of vim text objects. 
+
+
+
+##### 5. [Scrap Your Type Class](http://www.haskellforall.com/2012/05/scrap-your-type-classes.html)
+
+Implement the type class at data value level, so that no extension would be required, API maintainence would be easier, and programming would even be safer. But only an impossible argument.
