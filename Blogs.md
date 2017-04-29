@@ -27,3 +27,9 @@ Comprehensive guide on the use of vim text objects.
 ##### 5. [Scrap Your Type Class](http://www.haskellforall.com/2012/05/scrap-your-type-classes.html)
 
 Implement the type class at data value level, so that no extension would be required, API maintainence would be easier, and programming would even be safer. But only an impossible argument.
+
+
+
+##### 6. [Become a Commoand-Line Power User with Oh-My-Zsh and Z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
+
+A guide on insalling zsh and oh-my-zsh and related plugins. 

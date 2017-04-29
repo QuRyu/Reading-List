@@ -17,3 +17,9 @@ Lamdba Calculus core for implementing lineary types, their semantics, and applic
 Gives the reason for using type classes as to achieve restricted polymorphism, and higher-order type in type constructuctors. 
 
 Gives some applications of the combination of type classes and higher-order types. Note that monad transformers could be modeled in a category theory way. 
+
+
+
+##### 4. A tutorial on the universality and expressiveness of fold 
+
+How fold can be used to constrcut other recursive functions and the use of fold as proof principle that avoids the need for inductive proofs.  
