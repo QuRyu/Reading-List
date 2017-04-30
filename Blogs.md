@@ -33,3 +33,9 @@ Implement the type class at data value level, so that no extension would be requ
 ##### 6. [Become a Commoand-Line Power User with Oh-My-Zsh and Z](https://www.smashingmagazine.com/2015/07/become-command-line-power-user-oh-my-zsh-z/)
 
 A guide on insalling zsh and oh-my-zsh and related plugins. 
+
+
+
+##### 7. [First Class Module without Defaults](http://www.haskellforall.com/2012/07/first-class-modules-without-defaults.html)
+
+Use RecordWilCards extension to manage package imports. Fancy. 
