@@ -23,3 +23,7 @@ Gives some applications of the combination of type classes and higher-order type
 ##### 4. A tutorial on the universality and expressiveness of fold 
 
 How fold can be used to constrcut other recursive functions and the use of fold as proof principle that avoids the need for inductive proofs.  
+
+The universality of fold states the equivalence between fold and recursive programs. The paper also presents various specific aspects of universality, e.g. fusion property 
+
+ 
