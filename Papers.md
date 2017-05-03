@@ -26,4 +26,13 @@ How fold can be used to constrcut other recursive functions and the use of fold 
 
 The universality of fold states the equivalence between fold and recursive programs. The paper also presents various specific aspects of universality, e.g. fusion property 
 
- 
+
+
+##### 5. Lazy Functional State Threads
+
+Manipulate named mutable objects in a purely functional way, using the ST monad (the paper did not state it is a monad, though). 
+
+#### *Reread*####  
+
+prerequisite: *Types and Programming Lanaguages*; *Unboxed values as first class citiens* 
+
