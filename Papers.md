@@ -36,3 +36,12 @@ Manipulate named mutable objects in a purely functional way, using the ST monad 
 
 prerequisite: *Types and Programming Lanaguages*; *Unboxed values as first class citiens* 
 
+
+
+
+
+##### 6. Concurrent Control with "Readers" and "Writers"
+
+Presents two solutions: 1. the reader has the priority so that as long as there are readers going on, the writer waits indefinitely. 2. the writer has the priority so the reader waits indefinitely. 
+
+Because there must be at most one writer present at a given time, there must be two semaphores for the writer, one for incrementing the count, another for gaining exclusive access to resources. 
