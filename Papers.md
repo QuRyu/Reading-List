@@ -45,3 +45,9 @@ prerequisite: *Types and Programming Lanaguages*; *Unboxed values as first class
 Presents two solutions: 1. the reader has the priority so that as long as there are readers going on, the writer waits indefinitely. 2. the writer has the priority so the reader waits indefinitely. 
 
 Because there must be at most one writer present at a given time, there must be two semaphores for the writer, one for incrementing the count, another for gaining exclusive access to resources. 
+
+
+
+##### 7. Independent Solutions to Extension Problems 
+
+Presents solutions to extension problems, that is, how to extend software in terms of data and functions while being able to compile the code separately. The dependent type in trait plays an important role such that this type will not be typed until extended by a concrete class. Probably only possible in Scala, not idea about OCamel. 
