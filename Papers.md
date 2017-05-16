@@ -50,4 +50,23 @@ Because there must be at most one writer present at a given time, there must be 
 
 ##### 7. Independent Solutions to Extension Problems 
 
-Presents solutions to extension problems, that is, how to extend software in terms of data and functions while being able to compile the code separately. The dependent type in trait plays an important role such that this type will not be typed until extended by a concrete class. Probably only possible in Scala, not idea about OCamel. 
+Presents solutions to extension problems, that is, how to extend software in terms of data and functions while being able to compile the code separately. The dependent type in trait plays an important role such that this type will not be typed until extended by a concrete class. Probably only possible in Scala? 
+
+
+
+##### 8. On Understanding Types, Data Abstraction and Polymorphism 
+
+Section 1 gives the history of evolution of types in programming languages and mathematical model (Lambda Caculus, for example). No types exist initially, as the case for Lisp. 
+
+Polymorphism in OOP is a kind of universal polymorphism, so is parametric polymorphism. 
+
+
+
+An intuition model for types is given: there is a universe of V of all values. Types are sets in the V universe: the phrase *having a type* is interpreted as *membership in the appropriate set*. 
+
+Thus a monomorphic type system is one in which each value belongs to at most one type. 
+
+A polymorphic type is one in which large collection of values belong to many types. 
+
+
+
