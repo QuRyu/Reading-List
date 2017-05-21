@@ -114,3 +114,8 @@ Use RecordWilCards extension to manage package imports. Fancy.
 
 
 
+##### 16. Escape from Ivory Tower: the Haskell Journey
+
+It was after the introduction of overloading by Phil Wadler that Rank-N types, GADTs, and other researches were conducted and implemented in Haskell. 
+
+The principle of no side effects was a compromise to lazy evaluation, for the order of execution is rather arbitrary and fucntions like *print* may or may not work. 
