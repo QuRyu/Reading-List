@@ -126,5 +126,10 @@ The principle of no side effects was a compromise to lazy evaluation, for the or
 
 The conversion between comprehension structure that follows certians laws and monads. This paper uses `join`,`unit` and `map` to define monads. 
 
-Section 4, *Manipulating State*, will result in type errors if compiled, probably. 
 
+
+18. Monadic Parsing in Haskell
+
+Use monads, specifically the Parser, to parse programs in a modular and combinatorial way. 
+
+No problem in comprehending the text this time. 
