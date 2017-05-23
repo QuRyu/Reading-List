@@ -133,3 +133,11 @@ The conversion between comprehension structure that follows certians laws and mo
 Use monads, specifically the Parser, to parse programs in a modular and combinatorial way. 
 
 No problem in comprehending the text this time. 
+
+
+
+19. [Why constraints on data type are bad](https://stackoverflow.com/questions/24465586/why-constraints-on-data-are-a-bad-thing)
+
+Constrats on data type make it incompitable with type families that do not have the kind of constraints on their instances. For example, any data type with constraints cannot be made instances of `Functor` because functor class do not have type constraints. 
+
+GADTs, however, can be use for one-purpose data types, as using type family would be a over-skill. 
