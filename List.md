@@ -141,3 +141,9 @@ No problem in comprehending the text this time.
 Constrats on data type make it incompitable with type families that do not have the kind of constraints on their instances. For example, any data type with constraints cannot be made instances of `Functor` because functor class do not have type constraints. 
 
 GADTs, however, can be use for one-purpose data types, as using type family would be a over-skill. 
+
+
+
+20. [Why Free Monads Matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
+
+The way free monads are structured and how we can use them. Now I finally understand why Stream library is designed so. 
