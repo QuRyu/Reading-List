@@ -147,3 +147,9 @@ GADTs, however, can be use for one-purpose data types, as using type family woul
 20. [Why Free Monads Matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html)
 
 The way free monads are structured and how we can use them. Now I finally understand why Stream library is designed so. 
+
+
+
+21. [From Object Algebras to Finally Tagless Interpreters](https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/)
+
+Essentially the implementation of the paper *Independent Solutions to Extension Problem* in Java and Haskell. 
