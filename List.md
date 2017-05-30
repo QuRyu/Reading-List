@@ -153,3 +153,10 @@ The way free monads are structured and how we can use them. Now I finally unders
 21. [From Object Algebras to Finally Tagless Interpreters](https://oleksandrmanzyuk.wordpress.com/2014/06/18/from-object-algebras-to-finally-tagless-interpreters-2/)
 
 Essentially the implementation of the paper *Independent Solutions to Extension Problem* in Java and Haskell. 
+
+
+
+22. Into the cores: squeezing Haskell into nine constructos 
+
+Introduction to the intermediate language for Haskell, which is based on System F with a few extensions. The core language is also typed so that after each phase of transformation the types could still be checked against to ensure correctness. This approach has the better advantage that the compiler does not find bugs only after trying to execute the program. 
+
