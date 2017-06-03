@@ -168,3 +168,7 @@ The way data should be represented when each data object from the same case clas
 
 
 
+24. [What We Talk About When We Talk About DIstributed Systems](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
+
+Explains each concept of distributed systems, with resources for studying specific topic. Great reference and guide. 
+
