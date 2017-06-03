@@ -160,3 +160,11 @@ Essentially the implementation of the paper *Independent Solutions to Extension 
 
 Introduction to the intermediate language for Haskell, which is based on System F with a few extensions. The core language is also typed so that after each phase of transformation the types could still be checked against to ensure correctness. This approach has the better advantage that the compiler does not find bugs only after trying to execute the program. 
 
+
+
+23. [Managing Data Classes with Ids](http://blog.originate.com/blog/2015/04/06/managing-data-classes-with-ids/)
+
+The way data should be represented when each data object from the same case class may or may not have a data field (in the blog this field is id) — wrap the object with another layer which adds the optional data field. 
+
+
+
