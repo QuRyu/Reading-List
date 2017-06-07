@@ -162,6 +162,10 @@ Introduction to the intermediate language for Haskell, which is based on System 
 
 
 
+Subsequent content is similar to the book *The Implementation of Functional Languages*. Without slides it is almost impossible to see the code. 
+
+
+
 23. [Managing Data Classes with Ids](http://blog.originate.com/blog/2015/04/06/managing-data-classes-with-ids/)
 
 The way data should be represented when each data object from the same case class may or may not have a data field (in the blog this field is id) — wrap the object with another layer which adds the optional data field. 
@@ -172,3 +176,8 @@ The way data should be represented when each data object from the same case clas
 
 Explains each concept of distributed systems, with resources for studying specific topic. Great reference and guide. 
 
+
+
+25. Immutability Changes Everything 
+
+With increasing and cheaper storage, it is possible to change everything at every software layer into immutable form. This paper gives several examples, ranging from bank accountants to hardware.  
