@@ -180,4 +180,16 @@ Explains each concept of distributed systems, with resources for studying specif
 
 25. Immutability Changes Everything 
 
-With increasing and cheaper storage, it is possible to change everything at every software layer into immutable form. This paper gives several examples, ranging from bank accountants to hardware.  
+With increasing and cheaper storage, it is possible to change everything at every software layer into immutable form. This paper gives several examples, ranging from bank accountants to hardware. 
+
+
+
+26. [How Haskell handles parallel computing on a multicore machine/cluster](https://stackoverflow.com/questions/44393439/how-haskell-handles-parallel-computing-on-a-multicore-machine-cluster)
+
+Evaluation of Haskell for concurrent and distributed systems. 
+
+
+
+27. [Why there is no implicit parallelism in Haskell](https://stackoverflow.com/questions/15005670/why-is-there-no-implicit-parallelism-in-haskell)
+
+The problem is with granularity. Too fine a particle results in huge overhead, while too coarse one a waste of CPUs. Creating threads casually puts burden on memory and GC, and letting the compiler figure out the right amount of parallelism amounts to solving halting problem. 
